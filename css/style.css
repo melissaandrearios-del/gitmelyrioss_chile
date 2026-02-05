@@ -8300,7 +8300,8 @@ h1, h2, h3, h4, h5,
   width: 50%; }
   @media (max-width: 767.98px) {
     .work-wrap .text, .work-wrap .img {
-      width: 100%; } }
+      width: 100%;
+      background-size: contain; } }
 
 .work-wrap .img {
   height: 700px; }
